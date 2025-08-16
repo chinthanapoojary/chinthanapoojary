@@ -24,7 +24,7 @@ I am passionate about **software development, data visualization, and problem-so
 ---
 
 ### 📚 Education  
-- 🎓 **MCA** – Presidency University, Bangalore (2023–Present) | CGPA: 8.95  
+- 🎓 **MCA** – Presidency University, Bangalore (2023–Present) | CGPA: 9.3  
 - 🎓 **BCA** – MMK & SDM Mahila Maha Vidyalaya, Mysore (2020–2023) | FGPA: 8.862  
 - 📘 PUC – Jawahar Navodaya Vidyalaya (2018–2020) | 86.83%  
 - 📘 SSLC – Jawahar Navodaya Vidyalaya (2017–2018) | 78.4%  
