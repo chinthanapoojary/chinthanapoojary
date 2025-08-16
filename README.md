@@ -1,10 +1,11 @@
+![Banner](./A_digital_graphic_banner_features_Chinthana_S_V,_a.png)
 # Hi there 👋, I'm Chinthana S V  
 
 💻 **Full Stack Developer | MCA Student | Python & Web Enthusiast**  
 
 ---
 
-### 🚀 About Me  
+###  About Me  
 I’m a **Full Stack Developer** skilled in **React, Node.js, Python, Flask, and MySQL**, with experience building user-friendly, responsive, and scalable web applications.  
 Currently working at **AddWeb**, while pursuing **MCA at Presidency University, Bangalore**.  
 
