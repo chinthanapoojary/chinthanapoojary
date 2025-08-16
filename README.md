@@ -1,4 +1,5 @@
-![Banner](./A_digital_graphic_banner_features_Chinthana_S_V,_a.png)
+![Banner](./chinthana.png)
+
 # Hi there 👋, I'm Chinthana S V  
 
 💻 **Full Stack Developer | MCA Student | Python & Web Enthusiast**  
